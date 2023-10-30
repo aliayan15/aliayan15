@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Ayan
 - 👀 I’m interested in programming and game development.
-- 🌱 I’m currently learning C# and Unity engine
+- 🌱 I’m currently learning C#-Unity engine and C++
 - 📫 My e mail address: aliayhan15@hotmail.com
 
 <!---
