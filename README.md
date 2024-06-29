@@ -27,11 +27,8 @@ I'm a passionate game developer transitioning from a mobile game studio backgrou
 
 ### Projects
 Here are a few highlights of my work:
-- [My itch.io Page]([link](https://ali-ayan.itch.io/))
-- [My Steam games]([link](https://store.steampowered.com/search/?developer=Ali%20A.))
-
-### Get in Touch
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ali-ayan-913aa617b/))
+- [My itch.io Page](https://ali-ayan.itch.io/)
+- [My Steam games](https://store.steampowered.com/search/?developer=Ali%20A.)
 
 ### Let's Connect!
 I'm always open to collaborating on exciting projects or discussing game development. Feel free to reach out!
